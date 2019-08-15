@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
-
+# Folders it's like example - це означає, що в папці .vs будуть ігноруватись всі файли та папки
+/.vs/*
 # Compiled Object files
 *.slo
 *.lo
